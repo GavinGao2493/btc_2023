@@ -1,0 +1,2557 @@
+[
+    {
+        "date": "2023-01-01",
+        "month": "1",
+        "week": "52",
+        "weekday": "Sunday",
+        "close": "114666.5023"
+    },
+    {
+        "date": "2023-01-02",
+        "month": "1",
+        "week": "1",
+        "weekday": "Monday",
+        "close": "115127.0840"
+    },
+    {
+        "date": "2023-01-03",
+        "month": "1",
+        "week": "1",
+        "weekday": "Tuesday",
+        "close": "115316.1943"
+    },
+    {
+        "date": "2023-01-04",
+        "month": "1",
+        "week": "1",
+        "weekday": "Wednesday",
+        "close": "116145.5537"
+    },
+    {
+        "date": "2023-01-05",
+        "month": "1",
+        "week": "1",
+        "weekday": "Thursday",
+        "close": "115836.7459"
+    },
+    {
+        "date": "2023-01-06",
+        "month": "1",
+        "week": "1",
+        "weekday": "Friday",
+        "close": "115900.6103"
+    },
+    {
+        "date": "2023-01-07",
+        "month": "1",
+        "week": "1",
+        "weekday": "Saturday",
+        "close": "116291.4898"
+    },
+    {
+        "date": "2023-01-08",
+        "month": "1",
+        "week": "1",
+        "weekday": "Sunday",
+        "close": "117778.4952"
+    },
+    {
+        "date": "2023-01-09",
+        "month": "1",
+        "week": "2",
+        "weekday": "Monday",
+        "close": "116420.6752"
+    },
+    {
+        "date": "2023-01-10",
+        "month": "1",
+        "week": "2",
+        "weekday": "Tuesday",
+        "close": "118233.5275"
+    },
+    {
+        "date": "2023-01-11",
+        "month": "1",
+        "week": "2",
+        "weekday": "Wednesday",
+        "close": "121419.2492"
+    },
+    {
+        "date": "2023-01-12",
+        "month": "1",
+        "week": "2",
+        "weekday": "Thursday",
+        "close": "127114.9788"
+    },
+    {
+        "date": "2023-01-13",
+        "month": "1",
+        "week": "2",
+        "weekday": "Friday",
+        "close": "133414.0568"
+    },
+    {
+        "date": "2023-01-14",
+        "month": "1",
+        "week": "2",
+        "weekday": "Saturday",
+        "close": "141099.1717"
+    },
+    {
+        "date": "2023-01-15",
+        "month": "1",
+        "week": "2",
+        "weekday": "Sunday",
+        "close": "140231.2688"
+    },
+    {
+        "date": "2023-01-16",
+        "month": "1",
+        "week": "3",
+        "weekday": "Monday",
+        "close": "142518.2020"
+    },
+    {
+        "date": "2023-01-17",
+        "month": "1",
+        "week": "3",
+        "weekday": "Tuesday",
+        "close": "143312.1587"
+    },
+    {
+        "date": "2023-01-18",
+        "month": "1",
+        "week": "3",
+        "weekday": "Wednesday",
+        "close": "139545.8295"
+    },
+    {
+        "date": "2023-01-19",
+        "month": "1",
+        "week": "3",
+        "weekday": "Thursday",
+        "close": "142837.7182"
+    },
+    {
+        "date": "2023-01-20",
+        "month": "1",
+        "week": "3",
+        "weekday": "Friday",
+        "close": "153803.7189"
+    },
+    {
+        "date": "2023-01-21",
+        "month": "1",
+        "week": "3",
+        "weekday": "Saturday",
+        "close": "156268.1741"
+    },
+    {
+        "date": "2023-01-22",
+        "month": "1",
+        "week": "3",
+        "weekday": "Sunday",
+        "close": "154073.9571"
+    },
+    {
+        "date": "2023-01-23",
+        "month": "1",
+        "week": "4",
+        "weekday": "Monday",
+        "close": "155598.6515"
+    },
+    {
+        "date": "2023-01-24",
+        "month": "1",
+        "week": "4",
+        "weekday": "Tuesday",
+        "close": "153577.1222"
+    },
+    {
+        "date": "2023-01-25",
+        "month": "1",
+        "week": "4",
+        "weekday": "Wednesday",
+        "close": "156829.2462"
+    },
+    {
+        "date": "2023-01-26",
+        "month": "1",
+        "week": "4",
+        "weekday": "Thursday",
+        "close": "156265.8779"
+    },
+    {
+        "date": "2023-01-27",
+        "month": "1",
+        "week": "4",
+        "weekday": "Friday",
+        "close": "156552.2470"
+    },
+    {
+        "date": "2023-01-28",
+        "month": "1",
+        "week": "4",
+        "weekday": "Saturday",
+        "close": "156254.4290"
+    },
+    {
+        "date": "2023-01-29",
+        "month": "1",
+        "week": "4",
+        "weekday": "Sunday",
+        "close": "161222.4672"
+    },
+    {
+        "date": "2023-01-30",
+        "month": "1",
+        "week": "5",
+        "weekday": "Monday",
+        "close": "154125.2558"
+    },
+    {
+        "date": "2023-01-31",
+        "month": "1",
+        "week": "5",
+        "weekday": "Tuesday",
+        "close": "156282.7188"
+    },
+    {
+        "date": "2023-02-01",
+        "month": "2",
+        "week": "5",
+        "weekday": "Wednesday",
+        "close": "159912.4409"
+    },
+    {
+        "date": "2023-02-02",
+        "month": "2",
+        "week": "5",
+        "weekday": "Thursday",
+        "close": "157939.8734"
+    },
+    {
+        "date": "2023-02-03",
+        "month": "2",
+        "week": "5",
+        "weekday": "Friday",
+        "close": "158829.2945"
+    },
+    {
+        "date": "2023-02-04",
+        "month": "2",
+        "week": "5",
+        "weekday": "Saturday",
+        "close": "157401.3107"
+    },
+    {
+        "date": "2023-02-05",
+        "month": "2",
+        "week": "5",
+        "weekday": "Sunday",
+        "close": "154679.8687"
+    },
+    {
+        "date": "2023-02-06",
+        "month": "2",
+        "week": "6",
+        "weekday": "Monday",
+        "close": "154582.1109"
+    },
+    {
+        "date": "2023-02-07",
+        "month": "2",
+        "week": "6",
+        "weekday": "Tuesday",
+        "close": "157987.8003"
+    },
+    {
+        "date": "2023-02-08",
+        "month": "2",
+        "week": "6",
+        "weekday": "Wednesday",
+        "close": "155694.2851"
+    },
+    {
+        "date": "2023-02-09",
+        "month": "2",
+        "week": "6",
+        "weekday": "Thursday",
+        "close": "147893.8106"
+    },
+    {
+        "date": "2023-02-10",
+        "month": "2",
+        "week": "6",
+        "weekday": "Friday",
+        "close": "147379.6067"
+    },
+    {
+        "date": "2023-02-11",
+        "month": "2",
+        "week": "6",
+        "weekday": "Saturday",
+        "close": "148739.4467"
+    },
+    {
+        "date": "2023-02-12",
+        "month": "2",
+        "week": "6",
+        "weekday": "Sunday",
+        "close": "148177.2118"
+    },
+    {
+        "date": "2023-02-13",
+        "month": "2",
+        "week": "7",
+        "weekday": "Monday",
+        "close": "148763.9648"
+    },
+    {
+        "date": "2023-02-14",
+        "month": "2",
+        "week": "7",
+        "weekday": "Tuesday",
+        "close": "151668.1024"
+    },
+    {
+        "date": "2023-02-15",
+        "month": "2",
+        "week": "7",
+        "weekday": "Wednesday",
+        "close": "166533.0242"
+    },
+    {
+        "date": "2023-02-16",
+        "month": "2",
+        "week": "7",
+        "weekday": "Thursday",
+        "close": "162033.4123"
+    },
+    {
+        "date": "2023-02-17",
+        "month": "2",
+        "week": "7",
+        "weekday": "Friday",
+        "close": "168669.8769"
+    },
+    {
+        "date": "2023-02-18",
+        "month": "2",
+        "week": "7",
+        "weekday": "Saturday",
+        "close": "169509.8110"
+    },
+    {
+        "date": "2023-02-19",
+        "month": "2",
+        "week": "7",
+        "weekday": "Sunday",
+        "close": "167352.2861"
+    },
+    {
+        "date": "2023-02-20",
+        "month": "2",
+        "week": "8",
+        "weekday": "Monday",
+        "close": "170181.4663"
+    },
+    {
+        "date": "2023-02-21",
+        "month": "2",
+        "week": "8",
+        "weekday": "Tuesday",
+        "close": "167877.7487"
+    },
+    {
+        "date": "2023-02-22",
+        "month": "2",
+        "week": "8",
+        "weekday": "Wednesday",
+        "close": "166680.4845"
+    },
+    {
+        "date": "2023-02-23",
+        "month": "2",
+        "week": "8",
+        "weekday": "Thursday",
+        "close": "165417.3023"
+    },
+    {
+        "date": "2023-02-24",
+        "month": "2",
+        "week": "8",
+        "weekday": "Friday",
+        "close": "161331.3739"
+    },
+    {
+        "date": "2023-02-25",
+        "month": "2",
+        "week": "8",
+        "weekday": "Saturday",
+        "close": "160844.0551"
+    },
+    {
+        "date": "2023-02-26",
+        "month": "2",
+        "week": "8",
+        "weekday": "Sunday",
+        "close": "163521.8858"
+    },
+    {
+        "date": "2023-02-27",
+        "month": "2",
+        "week": "9",
+        "weekday": "Monday",
+        "close": "163319.2940"
+    },
+    {
+        "date": "2023-02-28",
+        "month": "2",
+        "week": "9",
+        "weekday": "Tuesday",
+        "close": "160469.0282"
+    },
+    {
+        "date": "2023-03-01",
+        "month": "3",
+        "week": "9",
+        "weekday": "Wednesday",
+        "close": "162347.7590"
+    },
+    {
+        "date": "2023-03-02",
+        "month": "3",
+        "week": "9",
+        "weekday": "Thursday",
+        "close": "162267.1216"
+    },
+    {
+        "date": "2023-03-03",
+        "month": "3",
+        "week": "9",
+        "weekday": "Friday",
+        "close": "154409.8307"
+    },
+    {
+        "date": "2023-03-04",
+        "month": "3",
+        "week": "9",
+        "weekday": "Saturday",
+        "close": "154499.6465"
+    },
+    {
+        "date": "2023-03-05",
+        "month": "3",
+        "week": "9",
+        "weekday": "Sunday",
+        "close": "154742.2249"
+    },
+    {
+        "date": "2023-03-06",
+        "month": "3",
+        "week": "10",
+        "weekday": "Monday",
+        "close": "155427.0068"
+    },
+    {
+        "date": "2023-03-07",
+        "month": "3",
+        "week": "10",
+        "weekday": "Tuesday",
+        "close": "154660.7058"
+    },
+    {
+        "date": "2023-03-08",
+        "month": "3",
+        "week": "10",
+        "weekday": "Wednesday",
+        "close": "150931.9693"
+    },
+    {
+        "date": "2023-03-09",
+        "month": "3",
+        "week": "10",
+        "weekday": "Thursday",
+        "close": "141787.7186"
+    },
+    {
+        "date": "2023-03-10",
+        "month": "3",
+        "week": "10",
+        "weekday": "Friday",
+        "close": "139342.4527"
+    },
+    {
+        "date": "2023-03-11",
+        "month": "3",
+        "week": "10",
+        "weekday": "Saturday",
+        "close": "143432.3889"
+    },
+    {
+        "date": "2023-03-12",
+        "month": "3",
+        "week": "10",
+        "weekday": "Sunday",
+        "close": "154400.7194"
+    },
+    {
+        "date": "2023-03-13",
+        "month": "3",
+        "week": "11",
+        "weekday": "Monday",
+        "close": "165644.2135"
+    },
+    {
+        "date": "2023-03-14",
+        "month": "3",
+        "week": "11",
+        "weekday": "Tuesday",
+        "close": "169956.0377"
+    },
+    {
+        "date": "2023-03-15",
+        "month": "3",
+        "week": "11",
+        "weekday": "Wednesday",
+        "close": "168357.4494"
+    },
+    {
+        "date": "2023-03-16",
+        "month": "3",
+        "week": "11",
+        "weekday": "Thursday",
+        "close": "172776.5598"
+    },
+    {
+        "date": "2023-03-17",
+        "month": "3",
+        "week": "11",
+        "weekday": "Friday",
+        "close": "188813.7559"
+    },
+    {
+        "date": "2023-03-18",
+        "month": "3",
+        "week": "11",
+        "weekday": "Saturday",
+        "close": "186204.7870"
+    },
+    {
+        "date": "2023-03-19",
+        "month": "3",
+        "week": "11",
+        "weekday": "Sunday",
+        "close": "188032.9675"
+    },
+    {
+        "date": "2023-03-20",
+        "month": "3",
+        "week": "12",
+        "weekday": "Monday",
+        "close": "190955.2842"
+    },
+    {
+        "date": "2023-03-21",
+        "month": "3",
+        "week": "12",
+        "weekday": "Tuesday",
+        "close": "193934.1443"
+    },
+    {
+        "date": "2023-03-22",
+        "month": "3",
+        "week": "12",
+        "weekday": "Wednesday",
+        "close": "187880.6315"
+    },
+    {
+        "date": "2023-03-23",
+        "month": "3",
+        "week": "12",
+        "weekday": "Thursday",
+        "close": "193203.6927"
+    },
+    {
+        "date": "2023-03-24",
+        "month": "3",
+        "week": "12",
+        "weekday": "Friday",
+        "close": "188810.1358"
+    },
+    {
+        "date": "2023-03-25",
+        "month": "3",
+        "week": "12",
+        "weekday": "Saturday",
+        "close": "195223.4178"
+    },
+    {
+        "date": "2023-03-26",
+        "month": "3",
+        "week": "12",
+        "weekday": "Sunday",
+        "close": "192360.2397"
+    },
+    {
+        "date": "2023-03-27",
+        "month": "3",
+        "week": "13",
+        "weekday": "Monday",
+        "close": "186814.7097"
+    },
+    {
+        "date": "2023-03-28",
+        "month": "3",
+        "week": "13",
+        "weekday": "Tuesday",
+        "close": "187454.7656"
+    },
+    {
+        "date": "2023-03-29",
+        "month": "3",
+        "week": "13",
+        "weekday": "Wednesday",
+        "close": "195213.0372"
+    },
+    {
+        "date": "2023-03-30",
+        "month": "3",
+        "week": "13",
+        "weekday": "Thursday",
+        "close": "192618.6079"
+    },
+    {
+        "date": "2023-03-31",
+        "month": "3",
+        "week": "13",
+        "weekday": "Friday",
+        "close": "195578.8393"
+    },
+    {
+        "date": "2023-04-01",
+        "month": "4",
+        "week": "13",
+        "weekday": "Saturday",
+        "close": "195232.1103"
+    },
+    {
+        "date": "2023-04-02",
+        "month": "4",
+        "week": "13",
+        "weekday": "Sunday",
+        "close": "194025.3428"
+    },
+    {
+        "date": "2023-04-03",
+        "month": "4",
+        "week": "14",
+        "weekday": "Monday",
+        "close": "191130.0219"
+    },
+    {
+        "date": "2023-04-04",
+        "month": "4",
+        "week": "14",
+        "weekday": "Tuesday",
+        "close": "193740.1219"
+    },
+    {
+        "date": "2023-04-05",
+        "month": "4",
+        "week": "14",
+        "weekday": "Wednesday",
+        "close": "193850.4435"
+    },
+    {
+        "date": "2023-04-06",
+        "month": "4",
+        "week": "14",
+        "weekday": "Thursday",
+        "close": "192803.4668"
+    },
+    {
+        "date": "2023-04-07",
+        "month": "4",
+        "week": "14",
+        "weekday": "Friday",
+        "close": "191797.5948"
+    },
+    {
+        "date": "2023-04-08",
+        "month": "4",
+        "week": "14",
+        "weekday": "Saturday",
+        "close": "192107.5527"
+    },
+    {
+        "date": "2023-04-09",
+        "month": "4",
+        "week": "14",
+        "weekday": "Sunday",
+        "close": "195039.0550"
+    },
+    {
+        "date": "2023-04-10",
+        "month": "4",
+        "week": "15",
+        "weekday": "Monday",
+        "close": "204033.2627"
+    },
+    {
+        "date": "2023-04-11",
+        "month": "4",
+        "week": "15",
+        "weekday": "Tuesday",
+        "close": "208216.7545"
+    },
+    {
+        "date": "2023-04-12",
+        "month": "4",
+        "week": "15",
+        "weekday": "Wednesday",
+        "close": "207145.7094"
+    },
+    {
+        "date": "2023-04-13",
+        "month": "4",
+        "week": "15",
+        "weekday": "Thursday",
+        "close": "208771.6684"
+    },
+    {
+        "date": "2023-04-14",
+        "month": "4",
+        "week": "15",
+        "weekday": "Friday",
+        "close": "209406.2679"
+    },
+    {
+        "date": "2023-04-15",
+        "month": "4",
+        "week": "15",
+        "weekday": "Saturday",
+        "close": "208003.0743"
+    },
+    {
+        "date": "2023-04-16",
+        "month": "4",
+        "week": "15",
+        "weekday": "Sunday",
+        "close": "207466.1667"
+    },
+    {
+        "date": "2023-04-17",
+        "month": "4",
+        "week": "16",
+        "weekday": "Monday",
+        "close": "202540.6860"
+    },
+    {
+        "date": "2023-04-18",
+        "month": "4",
+        "week": "16",
+        "weekday": "Tuesday",
+        "close": "208998.3738"
+    },
+    {
+        "date": "2023-04-19",
+        "month": "4",
+        "week": "16",
+        "weekday": "Wednesday",
+        "close": "198444.1497"
+    },
+    {
+        "date": "2023-04-20",
+        "month": "4",
+        "week": "16",
+        "weekday": "Thursday",
+        "close": "194120.5545"
+    },
+    {
+        "date": "2023-04-21",
+        "month": "4",
+        "week": "16",
+        "weekday": "Friday",
+        "close": "187992.4648"
+    },
+    {
+        "date": "2023-04-22",
+        "month": "4",
+        "week": "16",
+        "weekday": "Saturday",
+        "close": "191796.0990"
+    },
+    {
+        "date": "2023-04-23",
+        "month": "4",
+        "week": "16",
+        "weekday": "Sunday",
+        "close": "190237.0797"
+    },
+    {
+        "date": "2023-04-24",
+        "month": "4",
+        "week": "17",
+        "weekday": "Monday",
+        "close": "189809.2385"
+    },
+    {
+        "date": "2023-04-25",
+        "month": "4",
+        "week": "17",
+        "weekday": "Tuesday",
+        "close": "196236.7592"
+    },
+    {
+        "date": "2023-04-26",
+        "month": "4",
+        "week": "17",
+        "weekday": "Wednesday",
+        "close": "196858.4706"
+    },
+    {
+        "date": "2023-04-27",
+        "month": "4",
+        "week": "17",
+        "weekday": "Thursday",
+        "close": "204017.5544"
+    },
+    {
+        "date": "2023-04-28",
+        "month": "4",
+        "week": "17",
+        "weekday": "Friday",
+        "close": "202770.5487"
+    },
+    {
+        "date": "2023-04-29",
+        "month": "4",
+        "week": "17",
+        "weekday": "Saturday",
+        "close": "202259.1462"
+    },
+    {
+        "date": "2023-04-30",
+        "month": "4",
+        "week": "17",
+        "weekday": "Sunday",
+        "close": "202399.6517"
+    },
+    {
+        "date": "2023-05-01",
+        "month": "5",
+        "week": "18",
+        "weekday": "Monday",
+        "close": "194171.7297"
+    },
+    {
+        "date": "2023-05-02",
+        "month": "5",
+        "week": "18",
+        "weekday": "Tuesday",
+        "close": "198242.7406"
+    },
+    {
+        "date": "2023-05-03",
+        "month": "5",
+        "week": "18",
+        "weekday": "Wednesday",
+        "close": "200494.5056"
+    },
+    {
+        "date": "2023-05-04",
+        "month": "5",
+        "week": "18",
+        "weekday": "Thursday",
+        "close": "199222.2917"
+    },
+    {
+        "date": "2023-05-05",
+        "month": "5",
+        "week": "18",
+        "weekday": "Friday",
+        "close": "204082.5987"
+    },
+    {
+        "date": "2023-05-06",
+        "month": "5",
+        "week": "18",
+        "weekday": "Saturday",
+        "close": "199771.4117"
+    },
+    {
+        "date": "2023-05-07",
+        "month": "5",
+        "week": "18",
+        "weekday": "Sunday",
+        "close": "196663.7385"
+    },
+    {
+        "date": "2023-05-08",
+        "month": "5",
+        "week": "19",
+        "weekday": "Monday",
+        "close": "191425.5874"
+    },
+    {
+        "date": "2023-05-09",
+        "month": "5",
+        "week": "19",
+        "weekday": "Tuesday",
+        "close": "191398.7257"
+    },
+    {
+        "date": "2023-05-10",
+        "month": "5",
+        "week": "19",
+        "weekday": "Wednesday",
+        "close": "191476.7738"
+    },
+    {
+        "date": "2023-05-11",
+        "month": "5",
+        "week": "19",
+        "weekday": "Thursday",
+        "close": "187601.4824"
+    },
+    {
+        "date": "2023-05-12",
+        "month": "5",
+        "week": "19",
+        "weekday": "Friday",
+        "close": "186495.7196"
+    },
+    {
+        "date": "2023-05-13",
+        "month": "5",
+        "week": "19",
+        "weekday": "Saturday",
+        "close": "186133.2725"
+    },
+    {
+        "date": "2023-05-14",
+        "month": "5",
+        "week": "19",
+        "weekday": "Sunday",
+        "close": "187151.7804"
+    },
+    {
+        "date": "2023-05-15",
+        "month": "5",
+        "week": "20",
+        "weekday": "Monday",
+        "close": "189043.6042"
+    },
+    {
+        "date": "2023-05-16",
+        "month": "5",
+        "week": "20",
+        "weekday": "Tuesday",
+        "close": "188677.9684"
+    },
+    {
+        "date": "2023-05-17",
+        "month": "5",
+        "week": "20",
+        "weekday": "Wednesday",
+        "close": "191736.8215"
+    },
+    {
+        "date": "2023-05-18",
+        "month": "5",
+        "week": "20",
+        "weekday": "Thursday",
+        "close": "188764.5902"
+    },
+    {
+        "date": "2023-05-19",
+        "month": "5",
+        "week": "20",
+        "weekday": "Friday",
+        "close": "188392.2431"
+    },
+    {
+        "date": "2023-05-20",
+        "month": "5",
+        "week": "20",
+        "weekday": "Saturday",
+        "close": "190525.6561"
+    },
+    {
+        "date": "2023-05-21",
+        "month": "5",
+        "week": "20",
+        "weekday": "Sunday",
+        "close": "187886.7704"
+    },
+    {
+        "date": "2023-05-22",
+        "month": "5",
+        "week": "21",
+        "weekday": "Monday",
+        "close": "188901.4212"
+    },
+    {
+        "date": "2023-05-23",
+        "month": "5",
+        "week": "21",
+        "weekday": "Tuesday",
+        "close": "192093.8363"
+    },
+    {
+        "date": "2023-05-24",
+        "month": "5",
+        "week": "21",
+        "weekday": "Wednesday",
+        "close": "185905.3832"
+    },
+    {
+        "date": "2023-05-25",
+        "month": "5",
+        "week": "21",
+        "weekday": "Thursday",
+        "close": "187403.8886"
+    },
+    {
+        "date": "2023-05-26",
+        "month": "5",
+        "week": "21",
+        "weekday": "Friday",
+        "close": "188718.3524"
+    },
+    {
+        "date": "2023-05-27",
+        "month": "5",
+        "week": "21",
+        "weekday": "Saturday",
+        "close": "189695.9495"
+    },
+    {
+        "date": "2023-05-28",
+        "month": "5",
+        "week": "21",
+        "weekday": "Sunday",
+        "close": "198290.2813"
+    },
+    {
+        "date": "2023-05-29",
+        "month": "5",
+        "week": "22",
+        "weekday": "Monday",
+        "close": "196218.8971"
+    },
+    {
+        "date": "2023-05-30",
+        "month": "5",
+        "week": "22",
+        "weekday": "Tuesday",
+        "close": "196110.4734"
+    },
+    {
+        "date": "2023-05-31",
+        "month": "5",
+        "week": "22",
+        "weekday": "Wednesday",
+        "close": "193556.2675"
+    },
+    {
+        "date": "2023-06-01",
+        "month": "6",
+        "week": "22",
+        "weekday": "Thursday",
+        "close": "190244.7940"
+    },
+    {
+        "date": "2023-06-02",
+        "month": "6",
+        "week": "22",
+        "weekday": "Friday",
+        "close": "193000.6700"
+    },
+    {
+        "date": "2023-06-03",
+        "month": "6",
+        "week": "22",
+        "weekday": "Saturday",
+        "close": "192068.2569"
+    },
+    {
+        "date": "2023-06-04",
+        "month": "6",
+        "week": "22",
+        "weekday": "Sunday",
+        "close": "195135.2423"
+    },
+    {
+        "date": "2023-06-05",
+        "month": "6",
+        "week": "23",
+        "weekday": "Monday",
+        "close": "182922.4535"
+    },
+    {
+        "date": "2023-06-06",
+        "month": "6",
+        "week": "23",
+        "weekday": "Tuesday",
+        "close": "193912.8976"
+    },
+    {
+        "date": "2023-06-07",
+        "month": "6",
+        "week": "23",
+        "weekday": "Wednesday",
+        "close": "187812.7163"
+    },
+    {
+        "date": "2023-06-08",
+        "month": "6",
+        "week": "23",
+        "weekday": "Thursday",
+        "close": "188497.2788"
+    },
+    {
+        "date": "2023-06-09",
+        "month": "6",
+        "week": "23",
+        "weekday": "Friday",
+        "close": "188733.5767"
+    },
+    {
+        "date": "2023-06-10",
+        "month": "6",
+        "week": "23",
+        "weekday": "Saturday",
+        "close": "184166.8206"
+    },
+    {
+        "date": "2023-06-11",
+        "month": "6",
+        "week": "23",
+        "weekday": "Sunday",
+        "close": "184774.4105"
+    },
+    {
+        "date": "2023-06-12",
+        "month": "6",
+        "week": "24",
+        "weekday": "Monday",
+        "close": "185039.6892"
+    },
+    {
+        "date": "2023-06-13",
+        "month": "6",
+        "week": "24",
+        "weekday": "Tuesday",
+        "close": "185749.1598"
+    },
+    {
+        "date": "2023-06-14",
+        "month": "6",
+        "week": "24",
+        "weekday": "Wednesday",
+        "close": "179930.3656"
+    },
+    {
+        "date": "2023-06-15",
+        "month": "6",
+        "week": "24",
+        "weekday": "Thursday",
+        "close": "182091.1409"
+    },
+    {
+        "date": "2023-06-16",
+        "month": "6",
+        "week": "24",
+        "weekday": "Friday",
+        "close": "187585.8058"
+    },
+    {
+        "date": "2023-06-17",
+        "month": "6",
+        "week": "24",
+        "weekday": "Saturday",
+        "close": "188692.3859"
+    },
+    {
+        "date": "2023-06-18",
+        "month": "6",
+        "week": "24",
+        "weekday": "Sunday",
+        "close": "187450.6289"
+    },
+    {
+        "date": "2023-06-19",
+        "month": "6",
+        "week": "25",
+        "weekday": "Monday",
+        "close": "192277.5357"
+    },
+    {
+        "date": "2023-06-20",
+        "month": "6",
+        "week": "25",
+        "weekday": "Tuesday",
+        "close": "203422.5261"
+    },
+    {
+        "date": "2023-06-21",
+        "month": "6",
+        "week": "25",
+        "weekday": "Wednesday",
+        "close": "215532.9342"
+    },
+    {
+        "date": "2023-06-22",
+        "month": "6",
+        "week": "25",
+        "weekday": "Thursday",
+        "close": "214758.2145"
+    },
+    {
+        "date": "2023-06-23",
+        "month": "6",
+        "week": "25",
+        "weekday": "Friday",
+        "close": "220390.3961"
+    },
+    {
+        "date": "2023-06-24",
+        "month": "6",
+        "week": "25",
+        "weekday": "Saturday",
+        "close": "219324.3580"
+    },
+    {
+        "date": "2023-06-25",
+        "month": "6",
+        "week": "25",
+        "weekday": "Sunday",
+        "close": "219186.6100"
+    },
+    {
+        "date": "2023-06-26",
+        "month": "6",
+        "week": "26",
+        "weekday": "Monday",
+        "close": "219054.0113"
+    },
+    {
+        "date": "2023-06-27",
+        "month": "6",
+        "week": "26",
+        "weekday": "Tuesday",
+        "close": "221547.0628"
+    },
+    {
+        "date": "2023-06-28",
+        "month": "6",
+        "week": "26",
+        "weekday": "Wednesday",
+        "close": "217932.7322"
+    },
+    {
+        "date": "2023-06-29",
+        "month": "6",
+        "week": "26",
+        "weekday": "Thursday",
+        "close": "220774.4669"
+    },
+    {
+        "date": "2023-06-30",
+        "month": "6",
+        "week": "26",
+        "weekday": "Friday",
+        "close": "220999.6971"
+    },
+    {
+        "date": "2023-07-01",
+        "month": "7",
+        "week": "26",
+        "weekday": "Saturday",
+        "close": "221181.5599"
+    },
+    {
+        "date": "2023-07-02",
+        "month": "7",
+        "week": "26",
+        "weekday": "Sunday",
+        "close": "222239.4211"
+    },
+    {
+        "date": "2023-07-03",
+        "month": "7",
+        "week": "27",
+        "weekday": "Monday",
+        "close": "225572.6216"
+    },
+    {
+        "date": "2023-07-04",
+        "month": "7",
+        "week": "27",
+        "weekday": "Tuesday",
+        "close": "222035.6323"
+    },
+    {
+        "date": "2023-07-05",
+        "month": "7",
+        "week": "27",
+        "weekday": "Wednesday",
+        "close": "221120.9040"
+    },
+    {
+        "date": "2023-07-06",
+        "month": "7",
+        "week": "27",
+        "weekday": "Thursday",
+        "close": "216842.6997"
+    },
+    {
+        "date": "2023-07-07",
+        "month": "7",
+        "week": "27",
+        "weekday": "Friday",
+        "close": "219086.3289"
+    },
+    {
+        "date": "2023-07-08",
+        "month": "7",
+        "week": "27",
+        "weekday": "Saturday",
+        "close": "219463.4012"
+    },
+    {
+        "date": "2023-07-09",
+        "month": "7",
+        "week": "27",
+        "weekday": "Sunday",
+        "close": "218602.6615"
+    },
+    {
+        "date": "2023-07-10",
+        "month": "7",
+        "week": "28",
+        "weekday": "Monday",
+        "close": "219942.2449"
+    },
+    {
+        "date": "2023-07-11",
+        "month": "7",
+        "week": "28",
+        "weekday": "Tuesday",
+        "close": "220746.4370"
+    },
+    {
+        "date": "2023-07-12",
+        "month": "7",
+        "week": "28",
+        "weekday": "Wednesday",
+        "close": "217774.3820"
+    },
+    {
+        "date": "2023-07-13",
+        "month": "7",
+        "week": "28",
+        "weekday": "Thursday",
+        "close": "225053.7491"
+    },
+    {
+        "date": "2023-07-14",
+        "month": "7",
+        "week": "28",
+        "weekday": "Friday",
+        "close": "216594.3483"
+    },
+    {
+        "date": "2023-07-15",
+        "month": "7",
+        "week": "28",
+        "weekday": "Saturday",
+        "close": "216569.5738"
+    },
+    {
+        "date": "2023-07-16",
+        "month": "7",
+        "week": "28",
+        "weekday": "Sunday",
+        "close": "216235.9259"
+    },
+    {
+        "date": "2023-07-17",
+        "month": "7",
+        "week": "29",
+        "weekday": "Monday",
+        "close": "216179.1823"
+    },
+    {
+        "date": "2023-07-18",
+        "month": "7",
+        "week": "29",
+        "weekday": "Tuesday",
+        "close": "214328.3196"
+    },
+    {
+        "date": "2023-07-19",
+        "month": "7",
+        "week": "29",
+        "weekday": "Wednesday",
+        "close": "216158.0136"
+    },
+    {
+        "date": "2023-07-20",
+        "month": "7",
+        "week": "29",
+        "weekday": "Thursday",
+        "close": "213790.4833"
+    },
+    {
+        "date": "2023-07-21",
+        "month": "7",
+        "week": "29",
+        "weekday": "Friday",
+        "close": "214927.2263"
+    },
+    {
+        "date": "2023-07-22",
+        "month": "7",
+        "week": "29",
+        "weekday": "Saturday",
+        "close": "213431.0766"
+    },
+    {
+        "date": "2023-07-23",
+        "month": "7",
+        "week": "29",
+        "weekday": "Sunday",
+        "close": "214972.0823"
+    },
+    {
+        "date": "2023-07-24",
+        "month": "7",
+        "week": "30",
+        "weekday": "Monday",
+        "close": "209650.7300"
+    },
+    {
+        "date": "2023-07-25",
+        "month": "7",
+        "week": "30",
+        "weekday": "Tuesday",
+        "close": "208508.2047"
+    },
+    {
+        "date": "2023-07-26",
+        "month": "7",
+        "week": "30",
+        "weekday": "Wednesday",
+        "close": "209896.8610"
+    },
+    {
+        "date": "2023-07-27",
+        "month": "7",
+        "week": "30",
+        "weekday": "Thursday",
+        "close": "209528.2754"
+    },
+    {
+        "date": "2023-07-28",
+        "month": "7",
+        "week": "30",
+        "weekday": "Friday",
+        "close": "209597.4265"
+    },
+    {
+        "date": "2023-07-29",
+        "month": "7",
+        "week": "30",
+        "weekday": "Saturday",
+        "close": "209426.3814"
+    },
+    {
+        "date": "2023-07-30",
+        "month": "7",
+        "week": "30",
+        "weekday": "Sunday",
+        "close": "208844.1964"
+    },
+    {
+        "date": "2023-07-31",
+        "month": "7",
+        "week": "31",
+        "weekday": "Monday",
+        "close": "208778.9932"
+    },
+    {
+        "date": "2023-08-01",
+        "month": "8",
+        "week": "31",
+        "weekday": "Tuesday",
+        "close": "212997.5695"
+    },
+    {
+        "date": "2023-08-02",
+        "month": "8",
+        "week": "31",
+        "weekday": "Wednesday",
+        "close": "209634.6522"
+    },
+    {
+        "date": "2023-08-03",
+        "month": "8",
+        "week": "31",
+        "weekday": "Thursday",
+        "close": "209068.1578"
+    },
+    {
+        "date": "2023-08-04",
+        "month": "8",
+        "week": "31",
+        "weekday": "Friday",
+        "close": "208478.6826"
+    },
+    {
+        "date": "2023-08-05",
+        "month": "8",
+        "week": "31",
+        "weekday": "Saturday",
+        "close": "208536.9926"
+    },
+    {
+        "date": "2023-08-06",
+        "month": "8",
+        "week": "31",
+        "weekday": "Sunday",
+        "close": "208535.0432"
+    },
+    {
+        "date": "2023-08-07",
+        "month": "8",
+        "week": "32",
+        "weekday": "Monday",
+        "close": "209866.7179"
+    },
+    {
+        "date": "2023-08-08",
+        "month": "8",
+        "week": "32",
+        "weekday": "Tuesday",
+        "close": "214787.7916"
+    },
+    {
+        "date": "2023-08-09",
+        "month": "8",
+        "week": "32",
+        "weekday": "Wednesday",
+        "close": "213094.0305"
+    },
+    {
+        "date": "2023-08-10",
+        "month": "8",
+        "week": "32",
+        "weekday": "Thursday",
+        "close": "212378.6492"
+    },
+    {
+        "date": "2023-08-11",
+        "month": "8",
+        "week": "32",
+        "weekday": "Friday",
+        "close": "212742.4430"
+    },
+    {
+        "date": "2023-08-12",
+        "month": "8",
+        "week": "32",
+        "weekday": "Saturday",
+        "close": "212812.7393"
+    },
+    {
+        "date": "2023-08-13",
+        "month": "8",
+        "week": "32",
+        "weekday": "Sunday",
+        "close": "211718.3970"
+    },
+    {
+        "date": "2023-08-14",
+        "month": "8",
+        "week": "33",
+        "weekday": "Monday",
+        "close": "213461.1861"
+    },
+    {
+        "date": "2023-08-15",
+        "month": "8",
+        "week": "33",
+        "weekday": "Tuesday",
+        "close": "212409.7205"
+    },
+    {
+        "date": "2023-08-16",
+        "month": "8",
+        "week": "33",
+        "weekday": "Wednesday",
+        "close": "209468.4555"
+    },
+    {
+        "date": "2023-08-17",
+        "month": "8",
+        "week": "33",
+        "weekday": "Thursday",
+        "close": "194411.2397"
+    },
+    {
+        "date": "2023-08-18",
+        "month": "8",
+        "week": "33",
+        "weekday": "Friday",
+        "close": "189640.7723"
+    },
+    {
+        "date": "2023-08-19",
+        "month": "8",
+        "week": "33",
+        "weekday": "Saturday",
+        "close": "190045.6135"
+    },
+    {
+        "date": "2023-08-20",
+        "month": "8",
+        "week": "33",
+        "weekday": "Sunday",
+        "close": "190843.4985"
+    },
+    {
+        "date": "2023-08-21",
+        "month": "8",
+        "week": "34",
+        "weekday": "Monday",
+        "close": "190353.5507"
+    },
+    {
+        "date": "2023-08-22",
+        "month": "8",
+        "week": "34",
+        "weekday": "Tuesday",
+        "close": "189848.8690"
+    },
+    {
+        "date": "2023-08-23",
+        "month": "8",
+        "week": "34",
+        "weekday": "Wednesday",
+        "close": "192345.6920"
+    },
+    {
+        "date": "2023-08-24",
+        "month": "8",
+        "week": "34",
+        "weekday": "Thursday",
+        "close": "190425.4485"
+    },
+    {
+        "date": "2023-08-25",
+        "month": "8",
+        "week": "34",
+        "weekday": "Friday",
+        "close": "189861.4518"
+    },
+    {
+        "date": "2023-08-26",
+        "month": "8",
+        "week": "34",
+        "weekday": "Saturday",
+        "close": "189518.4674"
+    },
+    {
+        "date": "2023-08-27",
+        "month": "8",
+        "week": "34",
+        "weekday": "Sunday",
+        "close": "190131.2493"
+    },
+    {
+        "date": "2023-08-28",
+        "month": "8",
+        "week": "35",
+        "weekday": "Monday",
+        "close": "190313.8364"
+    },
+    {
+        "date": "2023-08-29",
+        "month": "8",
+        "week": "35",
+        "weekday": "Tuesday",
+        "close": "201844.3270"
+    },
+    {
+        "date": "2023-08-30",
+        "month": "8",
+        "week": "35",
+        "weekday": "Wednesday",
+        "close": "198830.5531"
+    },
+    {
+        "date": "2023-08-31",
+        "month": "8",
+        "week": "35",
+        "weekday": "Thursday",
+        "close": "188215.8148"
+    },
+    {
+        "date": "2023-09-01",
+        "month": "9",
+        "week": "35",
+        "weekday": "Friday",
+        "close": "187328.7411"
+    },
+    {
+        "date": "2023-09-02",
+        "month": "9",
+        "week": "35",
+        "weekday": "Saturday",
+        "close": "187908.3678"
+    },
+    {
+        "date": "2023-09-03",
+        "month": "9",
+        "week": "35",
+        "weekday": "Sunday",
+        "close": "188640.3334"
+    },
+    {
+        "date": "2023-09-04",
+        "month": "9",
+        "week": "36",
+        "weekday": "Monday",
+        "close": "187715.6330"
+    },
+    {
+        "date": "2023-09-05",
+        "month": "9",
+        "week": "36",
+        "weekday": "Tuesday",
+        "close": "188296.9916"
+    },
+    {
+        "date": "2023-09-06",
+        "month": "9",
+        "week": "36",
+        "weekday": "Wednesday",
+        "close": "188410.6770"
+    },
+    {
+        "date": "2023-09-07",
+        "month": "9",
+        "week": "36",
+        "weekday": "Thursday",
+        "close": "192306.5194"
+    },
+    {
+        "date": "2023-09-08",
+        "month": "9",
+        "week": "36",
+        "weekday": "Friday",
+        "close": "190225.2195"
+    },
+    {
+        "date": "2023-09-09",
+        "month": "9",
+        "week": "36",
+        "weekday": "Saturday",
+        "close": "190284.0296"
+    },
+    {
+        "date": "2023-09-10",
+        "month": "9",
+        "week": "36",
+        "weekday": "Sunday",
+        "close": "189817.7840"
+    },
+    {
+        "date": "2023-09-11",
+        "month": "9",
+        "week": "37",
+        "weekday": "Monday",
+        "close": "183390.4570"
+    },
+    {
+        "date": "2023-09-12",
+        "month": "9",
+        "week": "37",
+        "weekday": "Tuesday",
+        "close": "188350.9093"
+    },
+    {
+        "date": "2023-09-13",
+        "month": "9",
+        "week": "37",
+        "weekday": "Wednesday",
+        "close": "190679.9171"
+    },
+    {
+        "date": "2023-09-14",
+        "month": "9",
+        "week": "37",
+        "weekday": "Thursday",
+        "close": "193129.2064"
+    },
+    {
+        "date": "2023-09-15",
+        "month": "9",
+        "week": "37",
+        "weekday": "Friday",
+        "close": "193562.2790"
+    },
+    {
+        "date": "2023-09-16",
+        "month": "9",
+        "week": "37",
+        "weekday": "Saturday",
+        "close": "193217.8254"
+    },
+    {
+        "date": "2023-09-17",
+        "month": "9",
+        "week": "37",
+        "weekday": "Sunday",
+        "close": "192778.8324"
+    },
+    {
+        "date": "2023-09-18",
+        "month": "9",
+        "week": "38",
+        "weekday": "Monday",
+        "close": "195078.8417"
+    },
+    {
+        "date": "2023-09-19",
+        "month": "9",
+        "week": "38",
+        "weekday": "Tuesday",
+        "close": "198559.5221"
+    },
+    {
+        "date": "2023-09-20",
+        "month": "9",
+        "week": "38",
+        "weekday": "Wednesday",
+        "close": "197710.9409"
+    },
+    {
+        "date": "2023-09-21",
+        "month": "9",
+        "week": "38",
+        "weekday": "Thursday",
+        "close": "194119.0659"
+    },
+    {
+        "date": "2023-09-22",
+        "month": "9",
+        "week": "38",
+        "weekday": "Friday",
+        "close": "193977.6899"
+    },
+    {
+        "date": "2023-09-23",
+        "month": "9",
+        "week": "38",
+        "weekday": "Saturday",
+        "close": "194114.6056"
+    },
+    {
+        "date": "2023-09-24",
+        "month": "9",
+        "week": "38",
+        "weekday": "Sunday",
+        "close": "191758.8529"
+    },
+    {
+        "date": "2023-09-25",
+        "month": "9",
+        "week": "39",
+        "weekday": "Monday",
+        "close": "192268.1907"
+    },
+    {
+        "date": "2023-09-26",
+        "month": "9",
+        "week": "39",
+        "weekday": "Tuesday",
+        "close": "191648.0975"
+    },
+    {
+        "date": "2023-09-27",
+        "month": "9",
+        "week": "39",
+        "weekday": "Wednesday",
+        "close": "192651.5361"
+    },
+    {
+        "date": "2023-09-28",
+        "month": "9",
+        "week": "39",
+        "weekday": "Thursday",
+        "close": "197284.3137"
+    },
+    {
+        "date": "2023-09-29",
+        "month": "9",
+        "week": "39",
+        "weekday": "Friday",
+        "close": "196442.1053"
+    },
+    {
+        "date": "2023-09-30",
+        "month": "9",
+        "week": "39",
+        "weekday": "Saturday",
+        "close": "193624.2434"
+    },
+    {
+        "date": "2023-10-01",
+        "month": "10",
+        "week": "39",
+        "weekday": "Sunday",
+        "close": "203693.7162"
+    },
+    {
+        "date": "2023-10-02",
+        "month": "10",
+        "week": "40",
+        "weekday": "Monday",
+        "close": "197665.5313"
+    },
+    {
+        "date": "2023-10-03",
+        "month": "10",
+        "week": "40",
+        "weekday": "Tuesday",
+        "close": "200266.2731"
+    },
+    {
+        "date": "2023-10-04",
+        "month": "10",
+        "week": "40",
+        "weekday": "Wednesday",
+        "close": "199594.0929"
+    },
+    {
+        "date": "2023-10-05",
+        "month": "10",
+        "week": "40",
+        "weekday": "Thursday",
+        "close": "196840.7658"
+    },
+    {
+        "date": "2023-10-06",
+        "month": "10",
+        "week": "40",
+        "weekday": "Friday",
+        "close": "200650.9819"
+    },
+    {
+        "date": "2023-10-07",
+        "month": "10",
+        "week": "40",
+        "weekday": "Saturday",
+        "close": "204200.4997"
+    },
+    {
+        "date": "2023-10-08",
+        "month": "10",
+        "week": "40",
+        "weekday": "Sunday",
+        "close": "203954.0910"
+    },
+    {
+        "date": "2023-10-09",
+        "month": "10",
+        "week": "41",
+        "weekday": "Monday",
+        "close": "201115.3527"
+    },
+    {
+        "date": "2023-10-10",
+        "month": "10",
+        "week": "41",
+        "weekday": "Tuesday",
+        "close": "199812.0093"
+    },
+    {
+        "date": "2023-10-11",
+        "month": "10",
+        "week": "41",
+        "weekday": "Wednesday",
+        "close": "196153.7396"
+    },
+    {
+        "date": "2023-10-12",
+        "month": "10",
+        "week": "41",
+        "weekday": "Thursday",
+        "close": "195375.4694"
+    },
+    {
+        "date": "2023-10-13",
+        "month": "10",
+        "week": "41",
+        "weekday": "Friday",
+        "close": "196226.9631"
+    },
+    {
+        "date": "2023-10-14",
+        "month": "10",
+        "week": "41",
+        "weekday": "Saturday",
+        "close": "196230.1422"
+    },
+    {
+        "date": "2023-10-15",
+        "month": "10",
+        "week": "41",
+        "weekday": "Sunday",
+        "close": "198406.6923"
+    },
+    {
+        "date": "2023-10-16",
+        "month": "10",
+        "week": "42",
+        "weekday": "Monday",
+        "close": "208491.5620"
+    },
+    {
+        "date": "2023-10-17",
+        "month": "10",
+        "week": "42",
+        "weekday": "Tuesday",
+        "close": "207733.3261"
+    },
+    {
+        "date": "2023-10-18",
+        "month": "10",
+        "week": "42",
+        "weekday": "Wednesday",
+        "close": "207224.6531"
+    },
+    {
+        "date": "2023-10-19",
+        "month": "10",
+        "week": "42",
+        "weekday": "Thursday",
+        "close": "210016.4580"
+    },
+    {
+        "date": "2023-10-20",
+        "month": "10",
+        "week": "42",
+        "weekday": "Friday",
+        "close": "217145.6150"
+    },
+    {
+        "date": "2023-10-21",
+        "month": "10",
+        "week": "42",
+        "weekday": "Saturday",
+        "close": "218942.9398"
+    },
+    {
+        "date": "2023-10-22",
+        "month": "10",
+        "week": "42",
+        "weekday": "Sunday",
+        "close": "219495.3345"
+    },
+    {
+        "date": "2023-10-23",
+        "month": "10",
+        "week": "43",
+        "weekday": "Monday",
+        "close": "242052.2734"
+    },
+    {
+        "date": "2023-10-24",
+        "month": "10",
+        "week": "43",
+        "weekday": "Tuesday",
+        "close": "247786.2634"
+    },
+    {
+        "date": "2023-10-25",
+        "month": "10",
+        "week": "43",
+        "weekday": "Wednesday",
+        "close": "252439.8848"
+    },
+    {
+        "date": "2023-10-26",
+        "month": "10",
+        "week": "43",
+        "weekday": "Thursday",
+        "close": "249855.8833"
+    },
+    {
+        "date": "2023-10-27",
+        "month": "10",
+        "week": "43",
+        "weekday": "Friday",
+        "close": "248118.0123"
+    },
+    {
+        "date": "2023-10-28",
+        "month": "10",
+        "week": "43",
+        "weekday": "Saturday",
+        "close": "249406.1429"
+    },
+    {
+        "date": "2023-10-29",
+        "month": "10",
+        "week": "43",
+        "weekday": "Sunday",
+        "close": "252690.4308"
+    },
+    {
+        "date": "2023-10-30",
+        "month": "10",
+        "week": "44",
+        "weekday": "Monday",
+        "close": "252326.1334"
+    },
+    {
+        "date": "2023-10-31",
+        "month": "10",
+        "week": "44",
+        "weekday": "Tuesday",
+        "close": "253622.5541"
+    },
+    {
+        "date": "2023-11-01",
+        "month": "11",
+        "week": "44",
+        "weekday": "Wednesday",
+        "close": "259312.1055"
+    },
+    {
+        "date": "2023-11-02",
+        "month": "11",
+        "week": "44",
+        "weekday": "Thursday",
+        "close": "255608.1798"
+    },
+    {
+        "date": "2023-11-03",
+        "month": "11",
+        "week": "44",
+        "weekday": "Friday",
+        "close": "253563.3330"
+    },
+    {
+        "date": "2023-11-04",
+        "month": "11",
+        "week": "44",
+        "weekday": "Saturday",
+        "close": "256671.8656"
+    },
+    {
+        "date": "2023-11-05",
+        "month": "11",
+        "week": "44",
+        "weekday": "Sunday",
+        "close": "256431.5994"
+    },
+    {
+        "date": "2023-11-06",
+        "month": "11",
+        "week": "45",
+        "weekday": "Monday",
+        "close": "254704.1692"
+    },
+    {
+        "date": "2023-11-07",
+        "month": "11",
+        "week": "45",
+        "weekday": "Tuesday",
+        "close": "257986.6027"
+    },
+    {
+        "date": "2023-11-08",
+        "month": "11",
+        "week": "45",
+        "weekday": "Wednesday",
+        "close": "259570.4191"
+    },
+    {
+        "date": "2023-11-09",
+        "month": "11",
+        "week": "45",
+        "weekday": "Thursday",
+        "close": "267254.3759"
+    },
+    {
+        "date": "2023-11-10",
+        "month": "11",
+        "week": "45",
+        "weekday": "Friday",
+        "close": "271985.2496"
+    },
+    {
+        "date": "2023-11-11",
+        "month": "11",
+        "week": "45",
+        "weekday": "Saturday",
+        "close": "270818.0939"
+    },
+    {
+        "date": "2023-11-12",
+        "month": "11",
+        "week": "45",
+        "weekday": "Sunday",
+        "close": "270249.7273"
+    },
+    {
+        "date": "2023-11-13",
+        "month": "11",
+        "week": "46",
+        "weekday": "Monday",
+        "close": "266043.7676"
+    },
+    {
+        "date": "2023-11-14",
+        "month": "11",
+        "week": "46",
+        "weekday": "Tuesday",
+        "close": "257754.5075"
+    },
+    {
+        "date": "2023-11-15",
+        "month": "11",
+        "week": "46",
+        "weekday": "Wednesday",
+        "close": "274505.4257"
+    },
+    {
+        "date": "2023-11-16",
+        "month": "11",
+        "week": "46",
+        "weekday": "Thursday",
+        "close": "261840.0719"
+    },
+    {
+        "date": "2023-11-17",
+        "month": "11",
+        "week": "46",
+        "weekday": "Friday",
+        "close": "263902.3451"
+    },
+    {
+        "date": "2023-11-18",
+        "month": "11",
+        "week": "46",
+        "weekday": "Saturday",
+        "close": "265092.6877"
+    },
+    {
+        "date": "2023-11-19",
+        "month": "11",
+        "week": "46",
+        "weekday": "Sunday",
+        "close": "270981.4304"
+    },
+    {
+        "date": "2023-11-20",
+        "month": "11",
+        "week": "47",
+        "weekday": "Monday",
+        "close": "268634.8280"
+    },
+    {
+        "date": "2023-11-21",
+        "month": "11",
+        "week": "47",
+        "weekday": "Tuesday",
+        "close": "255538.7149"
+    },
+    {
+        "date": "2023-11-22",
+        "month": "11",
+        "week": "47",
+        "weekday": "Wednesday",
+        "close": "267828.3916"
+    },
+    {
+        "date": "2023-11-23",
+        "month": "11",
+        "week": "47",
+        "weekday": "Thursday",
+        "close": "266452.9875"
+    },
+    {
+        "date": "2023-11-24",
+        "month": "11",
+        "week": "47",
+        "weekday": "Friday",
+        "close": "269654.7466"
+    },
+    {
+        "date": "2023-11-25",
+        "month": "11",
+        "week": "47",
+        "weekday": "Saturday",
+        "close": "270413.3756"
+    },
+    {
+        "date": "2023-11-26",
+        "month": "11",
+        "week": "47",
+        "weekday": "Sunday",
+        "close": "268099.3969"
+    },
+    {
+        "date": "2023-11-27",
+        "month": "11",
+        "week": "48",
+        "weekday": "Monday",
+        "close": "266471.6126"
+    },
+    {
+        "date": "2023-11-28",
+        "month": "11",
+        "week": "48",
+        "weekday": "Tuesday",
+        "close": "270352.2894"
+    },
+    {
+        "date": "2023-11-29",
+        "month": "11",
+        "week": "48",
+        "weekday": "Wednesday",
+        "close": "269931.0493"
+    },
+    {
+        "date": "2023-11-30",
+        "month": "11",
+        "week": "48",
+        "weekday": "Thursday",
+        "close": "269118.1561"
+    },
+    {
+        "date": "2023-12-01",
+        "month": "12",
+        "week": "48",
+        "weekday": "Friday",
+        "close": "276183.5108"
+    },
+    {
+        "date": "2023-12-02",
+        "month": "12",
+        "week": "48",
+        "weekday": "Saturday",
+        "close": "282026.8113"
+    },
+    {
+        "date": "2023-12-03",
+        "month": "12",
+        "week": "48",
+        "weekday": "Sunday",
+        "close": "285613.6183"
+    },
+    {
+        "date": "2023-12-04",
+        "month": "12",
+        "week": "49",
+        "weekday": "Monday",
+        "close": "299838.6495"
+    },
+    {
+        "date": "2023-12-05",
+        "month": "12",
+        "week": "49",
+        "weekday": "Tuesday",
+        "close": "315013.5379"
+    },
+    {
+        "date": "2023-12-06",
+        "month": "12",
+        "week": "49",
+        "weekday": "Wednesday",
+        "close": "313180.8020"
+    },
+    {
+        "date": "2023-12-07",
+        "month": "12",
+        "week": "49",
+        "weekday": "Thursday",
+        "close": "309564.1944"
+    },
+    {
+        "date": "2023-12-08",
+        "month": "12",
+        "week": "49",
+        "weekday": "Friday",
+        "close": "316431.6169"
+    },
+    {
+        "date": "2023-12-09",
+        "month": "12",
+        "week": "49",
+        "weekday": "Saturday",
+        "close": "313108.6563"
+    },
+    {
+        "date": "2023-12-10",
+        "month": "12",
+        "week": "49",
+        "weekday": "Sunday",
+        "close": "313493.2922"
+    },
+    {
+        "date": "2023-12-11",
+        "month": "12",
+        "week": "50",
+        "weekday": "Monday",
+        "close": "295945.1167"
+    },
+    {
+        "date": "2023-12-12",
+        "month": "12",
+        "week": "50",
+        "weekday": "Tuesday",
+        "close": "297426.0727"
+    },
+    {
+        "date": "2023-12-13",
+        "month": "12",
+        "week": "50",
+        "weekday": "Wednesday",
+        "close": "307633.8483"
+    },
+    {
+        "date": "2023-12-14",
+        "month": "12",
+        "week": "50",
+        "weekday": "Thursday",
+        "close": "305848.8168"
+    },
+    {
+        "date": "2023-12-15",
+        "month": "12",
+        "week": "50",
+        "weekday": "Friday",
+        "close": "298451.8231"
+    },
+    {
+        "date": "2023-12-16",
+        "month": "12",
+        "week": "50",
+        "weekday": "Saturday",
+        "close": "300449.7295"
+    },
+    {
+        "date": "2023-12-17",
+        "month": "12",
+        "week": "50",
+        "weekday": "Sunday",
+        "close": "294086.2156"
+    },
+    {
+        "date": "2023-12-18",
+        "month": "12",
+        "week": "51",
+        "weekday": "Monday",
+        "close": "304055.0159"
+    },
+    {
+        "date": "2023-12-19",
+        "month": "12",
+        "week": "51",
+        "weekday": "Tuesday",
+        "close": "301333.9083"
+    },
+    {
+        "date": "2023-12-20",
+        "month": "12",
+        "week": "51",
+        "weekday": "Wednesday",
+        "close": "311480.6299"
+    },
+    {
+        "date": "2023-12-21",
+        "month": "12",
+        "week": "51",
+        "weekday": "Thursday",
+        "close": "313142.3963"
+    },
+    {
+        "date": "2023-12-22",
+        "month": "12",
+        "week": "51",
+        "weekday": "Friday",
+        "close": "313771.0406"
+    },
+    {
+        "date": "2023-12-23",
+        "month": "12",
+        "week": "51",
+        "weekday": "Saturday",
+        "close": "312571.5220"
+    },
+    {
+        "date": "2023-12-24",
+        "month": "12",
+        "week": "51",
+        "weekday": "Sunday",
+        "close": "307401.7766"
+    },
+    {
+        "date": "2023-12-25",
+        "month": "12",
+        "week": "52",
+        "weekday": "Monday",
+        "close": "311227.7328"
+    },
+    {
+        "date": "2023-12-26",
+        "month": "12",
+        "week": "52",
+        "weekday": "Tuesday",
+        "close": "303731.7380"
+    },
+    {
+        "date": "2023-12-27",
+        "month": "12",
+        "week": "52",
+        "weekday": "Wednesday",
+        "close": "310203.7095"
+    },
+    {
+        "date": "2023-12-28",
+        "month": "12",
+        "week": "52",
+        "weekday": "Thursday",
+        "close": "302998.7967"
+    },
+    {
+        "date": "2023-12-29",
+        "month": "12",
+        "week": "52",
+        "weekday": "Friday",
+        "close": "298813.1380"
+    },
+    {
+        "date": "2023-12-30",
+        "month": "12",
+        "week": "52",
+        "weekday": "Saturday",
+        "close": "299056.8495"
+    },
+    {
+        "date": "2023-12-31",
+        "month": "12",
+        "week": "52",
+        "weekday": "Sunday",
+        "close": "299351.6435"
+    }
+]
